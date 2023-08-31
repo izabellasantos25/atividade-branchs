@@ -1,6 +1,33 @@
+
+.texto{
+text-align: center;
+}
+
+
+body{
+    background-image: url(https://i.pinimg.com/564x/7d/fc/0b/7dfc0bc23102a4f435520b32e7544d28.jpg);
+    background-size: cover;
+    font-family: 'Playfair Display', serif;
+}
+
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
 .video{
     margin-left: 630px;
 }
+
 .um{
     height: 300px;
     width: 230px;
@@ -17,3 +44,4 @@
 .imagens{
     text-align: center;
 }
+
