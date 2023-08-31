@@ -1,4 +1,9 @@
 
+.texto{
+text-align: center;
+}
+
+
 body{
     background-image: url(https://i.pinimg.com/564x/7d/fc/0b/7dfc0bc23102a4f435520b32e7544d28.jpg);
     background-size: cover;
@@ -22,4 +27,3 @@ a:link, a:visited {
 .video{
     margin-left: 630px;
 }
-
